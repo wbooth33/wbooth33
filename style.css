@@ -1,32 +1,41 @@
-/* Set background color and font family */
 body {
-    background-color: #F2F2F2;
-    font-family: Arial, sans-serif;
-  }
-  
-  /* Center the heading and subheading */
-  h1, h2 {
-    text-align: center;
-  }
-  
-  /* Add a border and padding to the interests section */
-  #interests {
-    border: 1px solid #CCCCCC;
-    padding: 10px;
-  }
-  
-  /* Style the list of interests */
-  #interests ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  #interests li {
-    margin-bottom: 10px;
-  }
-  
-  /* Add a hover effect to the personal interests */
-  .personal-interests li:hover {
-    background-color: #CCCCCC;
-  }
+  background-color: #f8f8f8; 
+}
+
+h1 {
+  color: #002147;
+  font-size: 48px; 
+  font-family: Arial, sans-serif; 
+}
+
+h2 {
+  color: #0055a5;
+  font-size: 36px;
+  font-family: Arial, sans-serif; 
+}
+
+p {
+  color: #333;
+  font-size: 18px; 
+  font-family: Arial, sans-serif;
+}
+
+ul li {
+  color: #333; 
+  font-size: 18px; 
+  font-family: Arial, sans-serif;
+}
+
+footer {
+  background-color: #002147; 
+  color: #fff; 
+  padding: 20px; 
+  font-size: 16px; 
+  font-family: Arial, sans-serif; 
+}
+
+footer a {
+  color: #fff; 
+  text-decoration: none;
+}
+
