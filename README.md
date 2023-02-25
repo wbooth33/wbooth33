@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
 ### Hi there 👋
 Welcome to William's Landing Page!
 
