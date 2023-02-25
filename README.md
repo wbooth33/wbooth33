@@ -1,10 +1,12 @@
+<!DOCTYPE html>
+<html>
 <head>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 ### Hi there 👋
 Welcome to William's Landing Page!
-
+<body>
 Greetings! I am a student software developer with a passion for creating innovative solutions to any problem put forth to me, and improving my own skills through technology. Outside of work, I enjoy pursuing various interests that help me maintain a healthy work-life balance such as axe throwing and snowboarding.
 
 Interests
@@ -16,8 +18,11 @@ Personal Interests
 - Reading Science Fiction: I enjoy reading science fiction novels that challenge my thinking and inspire me to explore new ideas and possibilities.
 - Axe Throwing: I enjoy the sport of axe throwing, which requires focus, precision, and coordination. This activity helps me relieve stress and stay focused.
 - Fitness: I believe that physical fitness is essential for maintaining a healthy work-life balance. I enjoy participating in various fitness activities, including weightlifting, running, and snowboarding.
-
+</body>
+<footer>
 Thank you for visiting my landing page. Feel free to reach out to me if you have any questions or if you would like to collaborate on a project related to my professional interests.
+ </footer>
+ </html>
 
 
 <!--
