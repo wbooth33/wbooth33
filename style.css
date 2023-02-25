@@ -2,6 +2,10 @@ body {
   background: linear-gradient(to bottom, #4c6de4, #a173ed, #f8f8f8);
 }
 
+h1 h2 {
+  text-align:center;
+}
+
 h1 {
   color: #002147;
   font-size: 48px; 
