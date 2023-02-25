@@ -1,0 +1,52 @@
+/* Set background color and font family */
+body {
+    background-color: #F2F2F2;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Center the heading and subheading */
+  h1, h2 {
+    text-align: center;
+  }
+  
+  /* Add a border and padding to the interests section */
+  #interests {
+    border: 1px solid #CCCCCC;
+    padding: 10px;
+  }
+  
+  /* Style the list of interests */
+  #interests ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #interests li {
+    margin-bottom: 10px;
+  }
+  
+  /* Add a hover effect to the personal interests */
+  .personal-interests li:hover {
+    background-color: #CCCCCC;
+  }
+  
+  /* Style the contact button */
+  .contact-btn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .contact-btn:hover {
+    background-color: #3E8E41;
+  }
+  
